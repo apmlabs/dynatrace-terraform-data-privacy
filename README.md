@@ -58,7 +58,7 @@ source ~/.bashrc
 
 #### 5.1 Export Data Privacy Configuration
 ```bash
-source ~/.bashrc
+./.terraform/providers/registry.terraform.io/dynatrace-oss/dynatrace/1.85.0/linux_amd64/terraform-provider-dynatrace_v1.85.0 -export dynatrace_data_privacy
 ```
 
 #### 5.2 Verify Export
