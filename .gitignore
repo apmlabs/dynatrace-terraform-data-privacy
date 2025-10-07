@@ -1,0 +1,12 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Terraform runtime
+.terraform/
+terraform.plan
+
+# Environment files
+.env
+*.env
